@@ -1,4 +1,3 @@
-# Markdown-cheatsheet
 <!-- Headings -->
 # Heading 1
 ## Heading 2
