@@ -80,3 +80,15 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+![Code OSS main menu](img/oss-mainmenu.png)
+(![Navigation menu icon](https://storage.googleapis.com/cloud-training/images/menu.png))
+
+user 1:
+{{{user_0.username | Username 1}}}
+
+user 2:
+{{{user_1.username | Username 2}}}
+
+project id:
+{{{project_0.project_id | project id}}}
